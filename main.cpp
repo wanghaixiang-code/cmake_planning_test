@@ -9,6 +9,9 @@ int main()
     process p;
     p.planProcess();
 
+    process p1;
+    p1.planProcess();
+
     return 0;
 }
 
